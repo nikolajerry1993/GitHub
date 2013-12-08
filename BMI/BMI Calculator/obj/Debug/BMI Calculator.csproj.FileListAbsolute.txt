@@ -1,0 +1,14 @@
+c:\users\nikola\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+c:\users\nikola\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+c:\users\nikola\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+c:\users\nikola\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources
+c:\users\nikola\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+c:\users\nikola\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.Cache
+c:\users\nikola\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+c:\users\nikola\documents\visual studio 2012\Projects\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+C:\Users\Nikola\Documents\Visual Studio 2012\Projects\BMICalculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\Nikola\Documents\Visual Studio 2012\Projects\BMICalculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\Nikola\Documents\Visual Studio 2012\Projects\BMICalculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
+C:\Users\Nikola\Documents\GitHub\Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\Nikola\Documents\GitHub\Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\Nikola\Documents\GitHub\Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb
